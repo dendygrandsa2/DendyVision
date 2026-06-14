@@ -262,22 +262,20 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsGolf2.id" group-title="Sports" ch-number="56" tvg-logo="https://thumbor.prod.vidiocdn.com/iASUDB26jxl_lTZyJTM2mmr3fQY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18190/541269.png",Champions Golf 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/cobaduarr.mpd?id=18190&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18190&type=dash
+#EXTVLCOPT:http-user-agent= ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"svvWNYo0TcujMcfJF0LNNA","k":"7hg-GhuXG1ovdkwZKuUghw"}],"type":"temporary"}
+https://atemeshield1-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
 
 #EXTINF:-1 tvg-id="ChampionsGolf1.id" group-title="Sports" ch-number="57" tvg-logo="https://thumbor.prod.vidiocdn.com/5RyqXQzhOVE-gf2Y_IG1e5heJV8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/18189/8180b2.png",Champions Golf 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/cobaduarr.mpd?id=18189&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=18189&type=dash
-
-#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" group-title="Sports" ch-number="58" tvg-logo="https://thumbor.prod.vidiocdn.com/_Dg-2v9hGJBqLTIm_N0ZPbfjIkU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/21289/95b5b6.png",Citra Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/cobaduarr.mpd?id=21289&type=drm
-https://vidx.semar.my.id/cobaduarr.mpd?id=21289&type=dash
+#EXTVLCOPT:http-user-agent= ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xTASsI7fR4GHBkZl3eZHyw","k":"U5C7kksQLVZrnlmvvcCPqw"}],"type":"temporary"}
+https://atemeshield2-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/ChampionsGolf1HD.mpd
 
 #EXTINF:-1 tvg-id="tvN.id" group-title="Entertainment" ch-number="59" tvg-logo="https://thumbor.prod.vidiocdn.com/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png",tvN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
